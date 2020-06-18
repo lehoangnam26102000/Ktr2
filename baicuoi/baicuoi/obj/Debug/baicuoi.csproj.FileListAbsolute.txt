@@ -1,0 +1,9 @@
+D:\baicuoi\baicuoi\bin\Debug\baicuoi.exe.config
+D:\baicuoi\baicuoi\bin\Debug\baicuoi.exe
+D:\baicuoi\baicuoi\bin\Debug\baicuoi.pdb
+D:\baicuoi\baicuoi\obj\Debug\baicuoi.csprojResolveAssemblyReference.cache
+D:\baicuoi\baicuoi\obj\Debug\baicuoi.Form1.resources
+D:\baicuoi\baicuoi\obj\Debug\baicuoi.Properties.Resources.resources
+D:\baicuoi\baicuoi\obj\Debug\baicuoi.csproj.GenerateResource.Cache
+D:\baicuoi\baicuoi\obj\Debug\baicuoi.exe
+D:\baicuoi\baicuoi\obj\Debug\baicuoi.pdb
